@@ -18,6 +18,8 @@ public class Main {
         TimeOfHour = keyboard.nextInt();
         System.out.println("What are the minutes?");
         Minutes = keyboard.nextInt();
+        System.out.println("the time is: " + TimeOfHour + Minutes);
+        System.out.println("the number contained is"+((12)));
 
 
 
